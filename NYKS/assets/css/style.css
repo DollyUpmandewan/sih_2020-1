@@ -2507,7 +2507,7 @@ footer.site-footer {
 
 .button{
   display: inline-block;
-  background-color: #4CAF50; /* Green */
+  background-color: rgb(76, 175, 80); /* Green */
   border-radius:12px;
   border: none;
   color: white;
